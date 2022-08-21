@@ -20,7 +20,7 @@
   - TS
   - Jest
 
-- [rest-countries](https://github.com/kampaku/) — [Демо](https://rest-countries-five-rouge.vercel.app) Небольшой тренировочный проект на React/TS.
+- [rest-countries](https://github.com/kampaku/rest-countries) — [Демо](https://rest-countries-five-rouge.vercel.app) Небольшой тренировочный проект на React/TS.
   
   Технологии:
 
